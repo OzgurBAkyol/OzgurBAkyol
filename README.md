@@ -1,7 +1,8 @@
 Hi 👋 My name is Özgür Berke
 ============================
 
-Data Scientist Learner
+Data Science & ML 
+Learner
 ----------------------
 
 * 🌍  I'm based in Eskişehir , TR
