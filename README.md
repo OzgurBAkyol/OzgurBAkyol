@@ -5,7 +5,7 @@ AI
 
 * 🌍  I'm based in Eskişehir , TR
 * ✉️  You can contact me at [ozgurba@gmail.com](mailto:ozgurba@gmail.com)
-* 🤝  I'm open to collaborating on ML projects
+* 🤝  I'm open to collaborate.
 * ⚡  Some paths , the adventure never ends..
 
 ### Skills
