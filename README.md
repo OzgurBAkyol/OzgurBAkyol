@@ -4,7 +4,7 @@ AI
 ----------------------
 
 * 🌍  I'm based in Eskişehir , TR
-* ✉️  You can contact me at [ozgurba@gmail.com](mailto:ozgurba@gmail.com)
+* ✉️  You can contact me at [ozgurba@gmail.com](mailto:ozgurba99@gmail.com)
 * 🤝  I'm open to collaborate.
 * ⚡  Some paths , the adventure never ends..
 
