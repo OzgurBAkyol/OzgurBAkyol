@@ -1,6 +1,6 @@
 # Hi 👋 I'm Özgür Berke Akyol
 
-🧠 AI & Data Engineer | 🐍 Python Developer | 🧩 NLP & LLM | 🔧 MLOps & DevOps
+ AI & Data Engineer |  Python Developer |  NLP & LLM |  MLOps & DevOps
 
 ---
 
