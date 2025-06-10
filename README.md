@@ -27,8 +27,8 @@
 ## 🛠️ Skills
 
 **Languages & Tools:**  
-Python · SQL · Bash · Docker · Kubernetes · FastAPI · Flask · REST APIs  
-Airflow · Kafka · PostgreSQL · BigQuery · Cassandra · Git · Bitbucket · Linux
+Python · SQL · Bash · Dart · Docker · Kubernetes · FastAPI · Flask · REST APIs  
+Airflow · Kafka · PostgreSQL · BigQuery · Cassandra · Git · Bitbucket · Linux · Flutter ·
 
 **Libraries & Frameworks:**  
 Scikit-learn · Pandas · NumPy · PyTorch · TensorFlow · LangChain · HuggingFace Transformers  
