@@ -1,59 +1,67 @@
 # Hi 👋 I'm Özgür Berke Akyol
 
- AI & Data Engineering |  Python Developing |  NLP & LLM |  MLOps & DevOps
+**AI & Data Engineering | NLP & LLM | MLOps & Workflow Automation**
 
 ---
 
 🎓 Industrial Engineering graduate from Eskişehir Osmangazi University  
 🌍 Based in Eskişehir, Türkiye  
-✉️ Contact me: ozgurba99@gmail.com  
-🔗 LinkedIn: [özgürberkeakyol](https://www.linkedin.com/in/özgürberkeakyol)  
-📊 Medium: [Ozgurba](http://www.medium.com/Ozgurba)
+✉️ Contact: ozgurba99@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/özgürberkeakyol) • [Medium](http://www.medium.com/Ozgurba) • [Kaggle](https://www.kaggle.com/ozgurba) • [GitHub](https://github.com/OzgurBAkyol)
 
 ---
 
 ## 🚀 What I Do
 
-- Build AI-powered systems using LLMs, LangChain, and FAISS for RAG applications  
-- Design machine learning pipelines with Scikit-learn, PyTorch, TensorFlow, and MLflow  
-- Automate workflows using Airflow, Kafka, and Docker  
-- Apply NLP / NLU techniques in chatbot, content understanding, and vector search  
-- Work with PostgreSQL, BigQuery, Cassandra, and data orchestration tools like NiFi & Informatica  
-- Collaborate using Git, Bitbucket, Linux CLI, and CI/CD pipelines  
-- Build and deploy scalable backends using FastAPI and Flask
+- Develop AI-powered systems using **LLMs**, **LangChain**, and **FAISS** for advanced RAG applications  
+- Build machine learning pipelines with **Scikit-learn**, **PyTorch**, **TensorFlow**, tracked by **MLflow**  
+- Automate workflows using **Airflow**, **Kafka**, **Docker**, and modern orchestration tools  
+- Apply NLP & NLU in chatbot development, semantic search, and content extraction  
+- Handle data engineering tasks across **PostgreSQL**, **BigQuery**, **Cassandra**, **NiFi**, and **Informatica**  
+- Work with CI/CD, **Git**, **Bitbucket**, and Linux environments  
+- Deploy scalable APIs using **FastAPI** and **Flask**
 
 ---
 
-## 🛠️ Skills
+## 🧠 Professional Experience
 
-**Languages & Tools:**  
-Python · SQL · Bash · Dart · Docker · Kubernetes · FastAPI · Flask · REST APIs  
-Airflow · Kafka · PostgreSQL · BigQuery · Cassandra · Git · Bitbucket · Linux · Flutter ·
+- 💼 **Machine Learning Intern @ B2Metric AI**  
+  Worked on real-world NLP, tabular data, and time-series forecasting projects. Built chatbot systems with **LangChain**, supported multi-language **LLM** deployment, and designed data pipelines using **Selenium**, **BeautifulSoup**, and **Poetry**.
 
-**Libraries & Frameworks:**  
-Scikit-learn · Pandas · NumPy · PyTorch · TensorFlow · LangChain · HuggingFace Transformers  
-FAISS · Pinecone · OpenCV · MLflow · Seaborn · Matplotlib
+- 💻 **Freelance Data Scientist @ Upwork**  
+  Delivered data-driven solutions through anomaly detection and model experimentation. Collaborated with international clients on Python-based custom pipelines and analytics.
 
-**Concepts:**  
-Machine Learning · Deep Learning · NLP/NLU · Vector Search · Retrieval-Augmented Generation (RAG)  
-MLOps · SDLC · Data Engineering · Optimization · Mathematical Modeling
+- 🔥 **Regional Coordinator @ Sparks of Turkey (Volunteer)**  
+  Lead university-wide initiatives to support early-career individuals in software and data science. Organized technical events, mentorship circles, and programming workshops.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python · SQL · Bash · Dart · REST APIs · C · Go  
+**Frameworks:** FastAPI · Flask · LangChain · HuggingFace · PyTorch · TensorFlow  
+**ML Tools:** Scikit-learn · MLflow · Optuna · Weights & Biases · OpenCV · YOLO  
+**Data Stack:** Airflow · Kafka · NiFi · Cassandra · PostgreSQL · BigQuery · Parquet · Informatica · Datastage  
+**DevOps:** Docker · Kubernetes · Git · Bitbucket · Azure Cloud · CI/CD · Linux CLI  
+**Concepts:** Machine Learning · NLP · LLMs · Agents · RAG · MLOps · Data Engineering · OOP · Test Automation
 
 ---
 
 ## 📂 Featured Projects
 
 - 🧠 **Customer Churn Prediction** (CatBoost, SHAP, LOFO)  
-- 📚 **LLM-powered RAG System** (LangChain + FAISS + Chatbot)  
-- 🎬 **Netflix Recommender with Agent Architecture**  
-- 🌦️ **Weather ETL System** (API → PostgreSQL → Flask)
+- 📚 **LLM-powered RAG Chatbot System** (LangChain + FAISS)  
+- 🤖 **Netflix Recommendation Agent** (Agent-Based Modular System)  
+- 🌦️ **Weather ETL Pipeline** (REST API → PostgreSQL → Flask Visualization)
 
-[🔍 View more on my GitHub Repositories](https://github.com/OzgurBAkyol)
+👉 [Browse all projects on GitHub →](https://github.com/OzgurBAkyol)
 
 ---
 
-## 📣 I'm Open To
+## 🤝 Let's Connect
 
-- 💼 Intern / Junior AI Engineer / Python Developer roles  
-- 🤝 Open-source or research collaboration (AI / NLP / LLM)  
-- 📚 AI & Python-based freelance projects
+- 🚀 Looking for: **AI Engineer / LLM Engineer / Python Developer** roles (Full-time / Remote / Freelance)  
+- 🧩 Open to: **LLM research collaborations**, **automation projects**, and **open-source contributions**  
+- 💬 Always happy to connect with engineers, startups, and AI enthusiasts!
 
+---
