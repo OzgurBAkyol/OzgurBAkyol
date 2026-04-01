@@ -14,7 +14,7 @@ Cloud & DevOps Engineer with hands-on experience in infrastructure automation, C
 - **Backend:** Go, Python, Bash, PostgreSQL, REST APIs
 - **AI & ML:** LangChain, RAG pipelines, multi-agent LLM orchestration, PyTorch, Scikit-learn
 - **Networking:** Nginx, VPC, DNS, SSL/TLS, iptables
-- **Linux:** Ubuntu, RHEL, system administration, shell scripting
+- **Linux:** Ubuntu, RHEL based distributions, system administration, shell scripting
 
 ---
 
